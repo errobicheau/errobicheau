@@ -16,7 +16,7 @@
 
 <br>
 <p>
-Software Engineer, Kinesiology Graduate, exercise enthusiast. I enjoy the thoughtful and pragmatic approach to practical and impactful solutions that software development provides. Check out some of my work below.
+Software Engineer, Kinesiology Graduate, health and wellness enthusiast. I enjoy the thoughtful and pragmatic approach to practical and impactful solutions that software development provides. Check out some of my work below.
 
 See [my website](https://ericr.netlify.app/portfolio.html) for more information and to get in touch!
 </p>
