@@ -65,6 +65,24 @@ See [my website](https://ericr.netlify.app/portfolio.html) for more information 
       </p>
         <p><strong>HTML5, CSS3, JavaScript</strong> - A web application utilizing NASA's 'Picture of the Day' API to return users with a picture or media of the day based on a selected date.</p>
     </td>
+     <td width="50%" valign="top">
+      <h3 align="center">Pokemon Color Picker</h3>
+        <br />
+        <a target="_blank" href="https://erpokecolorpicker.netlify.app">
+            <img src="images/gif1.gif" width="100%" height="20%" alt="Pokemon Color Picker App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/errobicheau/pokemonColorPicker" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="http://erpokecolorpicker.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, JavaScript</strong> - A lightweight Pokemon-themed app allowing users to modify web page colors based on their preferred (gen 1) Pokemon starter.</p>
+    </td>
   </tr>
 </table>
 <br>
