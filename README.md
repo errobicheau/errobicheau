@@ -65,7 +65,9 @@ See [my website](https://ericr.netlify.app/portfolio.html) for more information 
       </p>
         <p><strong>HTML5, CSS3, JavaScript</strong> - A web application utilizing NASA's 'Picture of the Day' API to return users with a picture or media of the day based on a selected date.</p>
     </td>
-     <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">Pokemon Color Picker</h3>
         <br />
         <a target="_blank" href="https://erpokecolorpicker.netlify.app">
