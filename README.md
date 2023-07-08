@@ -71,7 +71,7 @@ See [my website](https://ericr.netlify.app/portfolio.html) for more information 
       <h3 align="center">Pokemon Color Picker</h3>
         <br />
         <a target="_blank" href="https://erpokecolorpicker.netlify.app">
-            <img src="images/gif1.gif" width="100%" height="20%" alt="Pokemon Color Picker App"/>
+            <img src="projects-pokemonColorPIcker.gif" width="100%" height="20%" alt="Pokemon Color Picker App"/>
         </a>
         <br />
         <p align="center">
