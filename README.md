@@ -33,7 +33,7 @@ See [my website](https://ericr.netlify.app/portfolio.html) for more information 
       <h3 align="center">Personal Site</h3>
         <br />
         <a target="_blank" href="https://ericr.netlify.app">
-            <img src="images/gif1.gif" width="100%" height="20%" alt="Web Services and Portfolio Site"/>
+            <img src="projects-portfolio.gif" width="100%" height="20%" alt="Web Services and Portfolio Site"/>
         </a>
         <br />
         <p align="center">
