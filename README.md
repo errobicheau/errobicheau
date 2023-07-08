@@ -33,7 +33,7 @@ See [my website](https://ericr.netlify.app/portfolio.html) for more information 
       <h3 align="center">Personal Site</h3>
         <br />
         <a target="_blank" href="https://ericr.netlify.app">
-            <img src="projects-portfolio.gif" width="90%" height="25%" alt="Web Services and Portfolio Site"/>
+            <img src="projects-portfolio.gif" width="100%" height="25%" alt="Web Services and Portfolio Site"/>
         </a>
         <br />
         <p align="center">
@@ -51,7 +51,7 @@ See [my website](https://ericr.netlify.app/portfolio.html) for more information 
       <h3 align="center">NASA Picture of The Day</h3>
         <br />
       <a target="_blank" href="#">
-            <img src="projects-nasaApi.gif" width="90%" height="25%" alt="NASA POD API"/>
+            <img src="projects-nasaApi.gif" width="100%" height="25%" alt="NASA POD API"/>
         </a>
         <br />
         <p align="center">
