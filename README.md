@@ -26,7 +26,7 @@
       <h3 align="center">AutoKeeper</h3>
         <br />
         <a target="_blank" href="https://autokeeper.cyclic.app">
-            <img src="images/autoKeeper.png" width="100%" height="20%" alt="AutoKeeper Cover" style="background: white; border-radius: 2.5px; box-shadow: 0px 0px 8px 0px RGB(125, 125, 125)"/>
+            <img src="images/autoKeeper1.png" width="100%" height="20%" alt="AutoKeeper Cover" style="background: white; border-radius: 2.5px; box-shadow: 0px 0px 8px 0px RGB(125, 125, 125)"/>
         </a>
         <br /> 
 <div align="center">
