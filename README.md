@@ -92,7 +92,7 @@
   <p align="center">
         
   </p>
-        <p><strong>Python3 | Flask </strong> - A dynamic dashboard showcasing New Hampshire Lottery data, delivering users rapid insights and statistics.</p>
+        <p><strong>Python | Flask </strong> - A dynamic dashboard showcasing New Hampshire Lottery data, delivering users rapid insights and statistics.</p>
     
    </div> 
   </td>
