@@ -41,13 +41,13 @@
   <td width="50%" valign="top">
       <h3 align="center">CatBook</h3>
         <br />
-      <a target="_blank" href="#">
+      <a target="_blank" href="https://github.com/errobicheau/catBook">
             <img src="images/catBook.png" width="100%"  alt="CatBook Cover" style="border-radius: 2.5px; box-shadow: 0px 0px 8px 0px RGB(15, 45, 90)"/>
         </a>
         <br />
 <div align="center">
 
-  [![GitHub](https://img.shields.io/badge/repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/errobicheau/catBook) [![Netlify](https://img.shields.io/badge/Live_Site-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://google.com)
+  [![GitHub](https://img.shields.io/badge/repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/errobicheau/catBook) [![Netlify](https://img.shields.io/badge/Live_Site-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://github.com/errobicheau/catbook)
 
   <p align="center">
           
@@ -64,7 +64,7 @@
   <td width="50%" valign="top">
       <h3 align="center">myCocktail.io</h3>
         <br />
-        <a target="_blank" href="https://autokeeper.cyclic.app">
+        <a target="_blank" href="https://mycocktailio.netlify.app">
             <img src="images/myCocktail.png" width="100%" height="20%" alt="myCocktail.io Cover" style="border-radius: 2.5px; box-shadow: 0px 0px 8px 0px RGB(43, 36, 60)"/>
         </a>
         <br />
@@ -79,7 +79,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Live Free & Win</h3>
         <br />
-      <a target="_blank" href="#">
+      <a target="_blank" href="https://github.com/errobicheau/liveFreeAndWin">
             <img src="images/liveFreeAndWin.png" width="100%"  alt="Live Free and Win Cover" style="border-radius: 2.5px; box-shadow: 0px 0px 8px 0px RGB(128, 126, 116)"/>
         </a>
         <br />
