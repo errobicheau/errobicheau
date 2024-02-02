@@ -47,7 +47,7 @@
         <br />
 <div align="center">
 
-  [![GitHub](https://img.shields.io/badge/repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/errobicheau/catBook) [![Netlify](https://img.shields.io/badge/Live_Site-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://github.com/errobicheau/catbook)
+  [![GitHub](https://img.shields.io/badge/repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/errobicheau/catBook)
 
   <p align="center">
           
