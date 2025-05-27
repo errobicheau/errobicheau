@@ -76,26 +76,7 @@
   
   </div>
   </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Live Free & Win</h3>
-        <br />
-      <a target="_blank" href="https://github.com/errobicheau/liveFreeAndWin">
-            <img src="images/liveFreeAndWin.png" width="100%"  alt="Live Free and Win Cover" style="border-radius: 2.5px; box-shadow: 0px 0px 8px 0px RGB(128, 126, 116)"/>
-        </a>
-        <br />
-      
-  <div align="center">
 
-  [![GitHub](https://img.shields.io/badge/repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/errobicheau/liveFreeAndWin)
-
-
-  <p align="center">
-        
-  </p>
-        <p><strong>Python | Flask </strong> - A dynamic dashboard showcasing New Hampshire Lottery data, delivering users rapid insights and statistics.</p>
-    
-   </div> 
-  </td>
   
 </table>
 <br>
